@@ -1,3 +1,29 @@
+# MANUALLY ADDED
+# Data
+data/
+*.csv
+*.xlsx
+*.tsv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# ColabFold / modeling outputs
+*.pdb
+*.a3m
+*.mmseqs
+*.log
+
+# MANUALLY ADDED
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
